@@ -2,4 +2,4 @@
 Program to add at the front of C++ projects to be lazy
 
 Credits:
-Matthew
+Matthew for doing all of it
